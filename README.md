@@ -128,4 +128,4 @@ y con mayor potencial para que el Sr. João tenga éxito en la venta de sus prod
 ¿Tienes sugerencias o quieres mejorar el análisis? Siéntete libre de abrir un issue o enviar un pull request.
 
 📄 Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT_Sandra_Patricia_Carrillo_Velosa.
